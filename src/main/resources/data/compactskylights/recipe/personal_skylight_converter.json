@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "G": {
+      "tag": "c:glass_panes"
+    },
+    "D": {
+      "item": "minecraft:daylight_detector"
+    },
+    "C": {
+      "tag": "c:ingots/copper"
+    },
+    "P": {
+      "item": "compactmachines:personal_shrinking_device"
+    },
+    "I": {
+      "tag": "c:ingots/iron"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "GDG",
+    "CPC",
+    "IRI"
+  ],
+  "result": {
+    "count": 1,
+    "id": "compactskylights:personal_skylight_converter"
+  }
+}
