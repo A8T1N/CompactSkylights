@@ -1,5 +1,8 @@
 {
-  "itemGroup.compactskylights": "Example Mod Tab",
-  "block.compactskylights.example_block": "Example Block",
-  "item.compactskylights.example_item": "Example Item"
+  "itemGroup.compactskylights.main": "Compact Skylights",
+  "messages.compactskylights.hint.hold_shift": "Hold shift for details.",
+  "messages.compactskylights.skylight_glass_info": "Shift + Right-click: Replace the Compact Machine ceiling with skylight glass.",
+  "messages.compactskylights.skylight_glass_restore_info": "Right-click: Restore the original Compact Machines ceiling blocks.",
+  "block.compactskylights.solid_skylight_glass": "Solid Skylight Glass",
+  "item.compactskylights.personal_skylight_converter": "Personal Skylight Converter"
 }
