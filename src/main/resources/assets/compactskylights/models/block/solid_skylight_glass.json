@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "render_type": "minecraft:translucent",
+  "textures": {
+    "all": "compactskylights:block/solid_skylight_glass",
+    "particle": "compactskylights:block/solid_skylight_glass"
+  }
+}
